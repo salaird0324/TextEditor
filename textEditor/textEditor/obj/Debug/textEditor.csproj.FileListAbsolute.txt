@@ -1,0 +1,15 @@
+C:\Users\Spencer Laird\Documents\4400Chapter1\textEditor\textEditor\textEditor\bin\Debug\textEditor.exe.config
+C:\Users\Spencer Laird\Documents\4400Chapter1\textEditor\textEditor\textEditor\bin\Debug\textEditor.exe
+C:\Users\Spencer Laird\Documents\4400Chapter1\textEditor\textEditor\textEditor\bin\Debug\textEditor.pdb
+C:\Users\Spencer Laird\Documents\4400Chapter1\textEditor\textEditor\textEditor\obj\Debug\textEditor.csprojResolveAssemblyReference.cache
+C:\Users\Spencer Laird\Documents\4400Chapter1\textEditor\textEditor\textEditor\obj\Debug\MainWindow.g.cs
+C:\Users\Spencer Laird\Documents\4400Chapter1\textEditor\textEditor\textEditor\obj\Debug\App.g.cs
+C:\Users\Spencer Laird\Documents\4400Chapter1\textEditor\textEditor\textEditor\obj\Debug\textEditor_MarkupCompile.cache
+C:\Users\Spencer Laird\Documents\4400Chapter1\textEditor\textEditor\textEditor\obj\Debug\textEditor_MarkupCompile.lref
+C:\Users\Spencer Laird\Documents\4400Chapter1\textEditor\textEditor\textEditor\obj\Debug\MainWindow.baml
+C:\Users\Spencer Laird\Documents\4400Chapter1\textEditor\textEditor\textEditor\obj\Debug\textEditor.g.resources
+C:\Users\Spencer Laird\Documents\4400Chapter1\textEditor\textEditor\textEditor\obj\Debug\textEditor.Properties.Resources.resources
+C:\Users\Spencer Laird\Documents\4400Chapter1\textEditor\textEditor\textEditor\obj\Debug\textEditor.csproj.GenerateResource.Cache
+C:\Users\Spencer Laird\Documents\4400Chapter1\textEditor\textEditor\textEditor\obj\Debug\textEditor.csproj.CoreCompileInputs.cache
+C:\Users\Spencer Laird\Documents\4400Chapter1\textEditor\textEditor\textEditor\obj\Debug\textEditor.exe
+C:\Users\Spencer Laird\Documents\4400Chapter1\textEditor\textEditor\textEditor\obj\Debug\textEditor.pdb
